@@ -20,6 +20,8 @@ body{
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 70px;
     grid-template-areas: "nav nav nav nav";
+    background-color: rgb(44, 38, 29);
+    align-items: center;
 }
 #display{
     display: flex;
